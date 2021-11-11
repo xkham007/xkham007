@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xkham007
-- Group member: mashasdi, xceri012
+- Group member: mashasdi, xceri012, felipetorres99
 
 - Final project for frontend study block- Group06
 
