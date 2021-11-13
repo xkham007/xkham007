@@ -1,5 +1,5 @@
 
-- Group 06: xkham007, mashasdi, xceri012, felipetorres99
+- 👋 Hi, I’m @xkham007
 
 - Final project for frontend study block- Group06
 
